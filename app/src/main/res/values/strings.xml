@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Learning 2 Live</string>
+    <string name="button">Level 1 100%</string>
+    <string name="button2">Level 2 <br>10% to complete</br></string>
+    <string name="button3">Level 3</string>
+    <string name="button4">Level 4</string>
+    <string name="button5">Level 5</string>
+    <string name="button6">Level 6</string>
+    <string name="lvl_name1">Level 1</string>
+    <string name="lvl_name2">Level 2</string>
+    <string name="lvl_name3">Level 3</string>
+    <string name="lvl_name4">Level 4</string>
+    <string name="lvl_name5">Level 5</string>
+    <string name="lvl_name6">Level 6</string>
+</resources>
